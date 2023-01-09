@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'devCircularView_Example' do
+  pod 'devCircularView', :path => '../'
+
+  target 'devCircularView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
