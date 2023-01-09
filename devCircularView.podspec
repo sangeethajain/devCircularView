@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  This is sample controller with circular view. there are some other new things like custom button is there.
+  This is sample controller with circular view. there are some other new things like custom button is there
                        DESC
 
   s.homepage         = 'https://github.com/sangeethajain/devCircularView'
