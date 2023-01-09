@@ -1,0 +1,22 @@
+{
+  "name": "devCircularView",
+  "version": "0.1.0",
+  "summary": "A short description of devCircularView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sangeethajain/devCircularView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sangeethajain": "sangeethamtj@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sangeethajain/devCircularView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "devCircularView/Classes/**/*"
+}

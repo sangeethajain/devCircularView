@@ -1,0 +1,6 @@
+framework module devCircularView {
+  umbrella header "devCircularView-umbrella.h"
+
+  export *
+  module * { export * }
+}
